@@ -1,4 +1,35 @@
+.container{
+    border: 1px solid cornflowerblue;
+    padding: 10px;
+    background-color: black;
+    color: beige;
+}
+
+.welcome {
+     border:1px  solid black;
+
+}
+.wel h1{
+    border:1px solid seagreen;
+    margin-left: 50px;
+}
+.navbar{
+    border:1px solid black;
+    display: inline;
+}
+ul{
+    display: inline;
+    margin-left: 900px;
+}
+li{display: inline;
+margin-right: 5px;
+}
+p{
+     display: inline;
+
+} 
 body{
+    font-family: 'Roboto', sans-serif;
     background-color: beige;
    
 }
